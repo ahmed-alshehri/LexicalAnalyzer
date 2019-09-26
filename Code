@@ -5,7 +5,7 @@ public class Main
 
     public static void main(String arg[]){   
 
-BufferedReader reader = new BufferedReader(new FileReader(C:\Users\Awan\Desktop\"YourFileName.txt"));
+BufferedReader reader = new BufferedReader(new FileReader(C:\Users\Ahmad\Desktop\"YourFileName.txt"));
 StringBuilder stringBuilder = new StringBuilder();
 String data = null;
 String ls = System.getProperty("line.separator");
